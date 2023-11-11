@@ -4,7 +4,7 @@ import heapq
 goal_state = [[1, 2, 3, 4], [5, 6, 7, 8], [9, 10, 11, 12], [13, 14, 15, 0]]
 
 # Define the initial state
-initial_state = [[1, 2, 3, 4], [5, 6, 7, 8], [9, 10, 14, 15], [11, 12, 13, 0]]
+initial_state = [[6, 1, 14, 2], [4, 7, 13, 8], [9, 10, 0, 11], [15, 12, 3, 5]]
 
 # Define the dimensions of the puzzle
 n = 4  # 3x3 puzzle
